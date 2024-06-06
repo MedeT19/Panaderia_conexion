@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión</title>
+    <link rel="stylesheet" href="Sesion.css">
+</head>
+<body>
+    <div class="login-container">
+        <h2>Iniciar Sesión</h2>
+        <form id="loginForm">
+            <label for="username">Usuario:</label>
+            <input type="text" id="username" name="username">
+            <label for="password">Contraseña:</label>
+            <input type="password" id="password" name="password">
+            <button type="submit">Iniciar Sesión</button>
+            <p id="loginError" style="display:none; color:red;">Usuario o contraseña incorrectos.</p>
+            <p id="loginMessage">Si quieres entrar a la página, solo necesitas hacer clic en "Iniciar Sesión".</p>
+        </form>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="Sesion.js"></script>
+</body>
+</html>

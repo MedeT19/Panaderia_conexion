@@ -1,0 +1,7 @@
+E:\Panaderia\Panaderia\bin\Panaderia.dll.config
+E:\Panaderia\Panaderia\bin\Panaderia.dll
+E:\Panaderia\Panaderia\bin\Panaderia.pdb
+E:\Panaderia\Panaderia\obj\Release\Panaderia.csproj.AssemblyReference.cache
+E:\Panaderia\Panaderia\obj\Release\Panaderia.csproj.CoreCompileInputs.cache
+E:\Panaderia\Panaderia\obj\Release\Panaderia.dll
+E:\Panaderia\Panaderia\obj\Release\Panaderia.pdb

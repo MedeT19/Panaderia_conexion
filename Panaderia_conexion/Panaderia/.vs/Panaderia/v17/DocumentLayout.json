@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|c:\\users\\lt321\\downloads\\panaderia_conexion\\panaderia_conexion\\panaderia\\panaderia\\solicitudcotizacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\solicitudcotizacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\solicitudcotizacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\solicitudcotizacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FEB7CA-9143-4A1A-BFDA-8B23F147F20D}|Capa_Datos\\Capa_Datos.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\capa_datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FEB7CA-9143-4A1A-BFDA-8B23F147F20D}|Capa_Datos\\Capa_Datos.csproj|solutionrelative:capa_datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E6E7B-9579-42B2-B2E4-31B02D83136B}|Capa_Entidad\\Capa_Entidad.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\capa_entidad\\capa_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E6E7B-9579-42B2-B2E4-31B02D83136B}|Capa_Entidad\\Capa_Entidad.csproj|solutionrelative:capa_entidad\\capa_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C251C520-B747-4094-A1BF-2B6C021459EE}|Capa_Negocio\\Capa_Negocio.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\capa_negocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C251C520-B747-4094-A1BF-2B6C021459EE}|Capa_Negocio\\Capa_Negocio.csproj|solutionrelative:capa_negocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\gestionsolicitudes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\gestionsolicitudes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\gestionsolicitudes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\gestionsolicitudes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\pedidoseventos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\pedidoseventos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\principal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\principal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\variedad-de-panes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\variedad-de-panes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\resumenpedido.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\resumenpedido.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\imagenes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\imagenes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\panaderia\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5DD4DEE-9D83-4930-AA16-E7D9AC3844E8}|Panaderia\\Panaderia.csproj|solutionrelative:panaderia\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Capa_Entidad.cs",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Capa_Entidad\\Capa_Entidad.cs",
+              "RelativeDocumentMoniker": "Capa_Entidad\\Capa_Entidad.cs",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Capa_Entidad\\Capa_Entidad.cs",
+              "RelativeToolTip": "Capa_Entidad\\Capa_Entidad.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:05:11.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Capa_Datos\\Class1.cs",
+              "RelativeDocumentMoniker": "Capa_Datos\\Class1.cs",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Capa_Datos\\Class1.cs",
+              "RelativeToolTip": "Capa_Datos\\Class1.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAuwLIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:04:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolicitudCotizacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\SolicitudCotizacion.aspx.cs",
+              "RelativeDocumentMoniker": "Panaderia\\SolicitudCotizacion.aspx.cs",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\SolicitudCotizacion.aspx.cs",
+              "RelativeToolTip": "Panaderia\\SolicitudCotizacion.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:38:05.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Capa_Negocio\\Class1.cs",
+              "RelativeDocumentMoniker": "Capa_Negocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Capa_Negocio\\Class1.cs",
+              "RelativeToolTip": "Capa_Negocio\\Class1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:59:26.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SolicitudCotizacion.aspx",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\SolicitudCotizacion.aspx",
+              "RelativeDocumentMoniker": "Panaderia\\SolicitudCotizacion.aspx",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\SolicitudCotizacion.aspx",
+              "RelativeToolTip": "Panaderia\\SolicitudCotizacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-30T00:38:01.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Panaderia\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\WebForm1.aspx",
+              "RelativeToolTip": "Panaderia\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-29T23:31:54.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Panaderia\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Panaderia\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:25:12.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionSolicitudes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\GestionSolicitudes.aspx.cs",
+              "RelativeDocumentMoniker": "Panaderia\\GestionSolicitudes.aspx.cs",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\GestionSolicitudes.aspx.cs",
+              "RelativeToolTip": "Panaderia\\GestionSolicitudes.aspx.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:55:04.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestionSolicitudes.aspx",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\GestionSolicitudes.aspx",
+              "RelativeDocumentMoniker": "Panaderia\\GestionSolicitudes.aspx",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\GestionSolicitudes.aspx",
+              "RelativeToolTip": "Panaderia\\GestionSolicitudes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-29T23:54:56.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pedidoseventos.html",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\Pedidoseventos.html",
+              "RelativeDocumentMoniker": "Panaderia\\Pedidoseventos.html",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\Pedidoseventos.html",
+              "RelativeToolTip": "Panaderia\\Pedidoseventos.html",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-29T23:12:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contacto.html",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\Contacto.html",
+              "RelativeDocumentMoniker": "Panaderia\\Contacto.html",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\Contacto.html",
+              "RelativeToolTip": "Panaderia\\Contacto.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-29T03:17:22.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Principal.html",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\Principal.html",
+              "RelativeDocumentMoniker": "Panaderia\\Principal.html",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\Principal.html",
+              "RelativeToolTip": "Panaderia\\Principal.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-29T02:16:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "variedad-de-panes.html",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\variedad-de-panes.html",
+              "RelativeDocumentMoniker": "Panaderia\\variedad-de-panes.html",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\variedad-de-panes.html",
+              "RelativeToolTip": "Panaderia\\variedad-de-panes.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-29T22:27:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResumenPedido.html",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\ResumenPedido.html",
+              "RelativeDocumentMoniker": "Panaderia\\ResumenPedido.html",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\ResumenPedido.html",
+              "RelativeToolTip": "Panaderia\\ResumenPedido.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-29T03:13:54.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "imagenes.css",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\imagenes.css",
+              "RelativeDocumentMoniker": "Panaderia\\imagenes.css",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\imagenes.css",
+              "RelativeToolTip": "Panaderia\\imagenes.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-29T02:15:03.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\styles.css",
+              "RelativeDocumentMoniker": "Panaderia\\styles.css",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\styles.css",
+              "RelativeToolTip": "Panaderia\\styles.css",
+              "ViewState": "AQIAACsBAAAAAAAAAAAAAIgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-29T01:14:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cart.js",
+              "DocumentMoniker": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\cart.js",
+              "RelativeDocumentMoniker": "Panaderia\\cart.js",
+              "ToolTip": "C:\\Users\\lt321\\Downloads\\Panaderia_conexion\\Panaderia_conexion\\Panaderia\\Panaderia\\cart.js",
+              "RelativeToolTip": "Panaderia\\cart.js",
+              "ViewState": "AQIAABsBAAAAAAAAAAAgwC8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-29T01:31:24.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

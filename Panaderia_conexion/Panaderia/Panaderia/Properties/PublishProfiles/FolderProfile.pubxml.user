@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Panaderia\release</_PublishTargetUrl>
+    <History>True|2024-04-17T17:19:44.2724449Z;True|2024-04-17T11:19:34.5673135-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Panaderia.dll">
+      <publishTime>04/17/2024 11:19:42</publishTime>
+    </File>
+    <File Include="bin/Panaderia.pdb">
+      <publishTime>04/17/2024 11:19:42</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/17/2024 11:19:43</publishTime>
+    </File>
+    <File Include="product-image/bolillo.jpg">
+      <publishTime>04/17/2024 09:15:46</publishTime>
+    </File>
+    <File Include="product-image/ConchaVainilla.jpg">
+      <publishTime>04/17/2024 09:15:46</publishTime>
+    </File>
+    <File Include="product-image/Cuernito.jpg">
+      <publishTime>04/17/2024 09:15:46</publishTime>
+    </File>
+    <File Include="product-image/PanaderiaCharly.jpeg">
+      <publishTime>04/17/2024 09:26:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/17/2024 11:19:43</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>04/17/2024 11:07:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

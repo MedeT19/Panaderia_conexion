@@ -1,0 +1,73 @@
+﻿/* Estilos base */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333; /* Color de texto predeterminado */
+    background-color: #f4f4f4; /* Color de fondo */
+}
+
+/* Contenedor del formulario de inicio de sesión */
+.login-container {
+    background-color: #fff; /* Fondo blanco */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 0 auto; /* Centrar horizontalmente */
+    text-align: center;
+}
+
+    /* Encabezado del formulario de inicio de sesión */
+    .login-container h2 {
+        margin-bottom: 20px;
+        color: #e59866; /* Color naranja de la panadería */
+    }
+
+    /* Etiquetas del formulario de inicio de sesión */
+    .login-container label {
+        display: block;
+        text-align: left;
+        margin: 10px 0 5px;
+        color: #555;
+    }
+
+    /* Campos de entrada del formulario de inicio de sesión */
+    .login-container input {
+        width: calc(100% - 20px);
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    /* Botón del formulario de inicio de sesión */
+    .login-container button {
+        width: calc(100% - 20px);
+        padding: 10px;
+        background-color: #e59866; /* Color naranja de la panadería */
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        /* Estilo hover para el botón del formulario de inicio de sesión */
+        .login-container button:hover {
+            background-color: #d35400; /* Color naranja oscuro en hover */
+        }
+
+/* Mensaje de error del formulario de inicio de sesión */
+#loginError {
+    display: none;
+    color: red;
+    margin-top: 10px;
+}
+
+/* Mensaje informativo debajo del botón de inicio de sesión */
+#loginMessage {
+    margin-top: 10px;
+    color: #333;
+}

@@ -1,0 +1,77 @@
+﻿.image-rotator {
+    flex: 0 0 calc(20% - 20px);
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px; /* Ajusta el padding para dispositivos más pequeños */
+    margin: 5px; /* Ajusta el margen para dispositivos más pequeños */
+    width: 100%;
+    max-width: 1100px; /* Ajusta el ancho máximo según tu diseño */
+    height: 410px; /* Ajusta la altura según tu diseño */
+    overflow: hidden;
+    margin: 0 auto; /* Centra horizontalmente */
+}
+
+    .image-rotator img {
+        display: none;
+        border-radius: 50px;
+        width: 600px;
+        height: 400px;
+        background-color: #f2f2f2;
+        border: 6px solid #e59866;
+        object-fit: cover; /* Ajusta el tamaño sin distorsionar la imagen */
+    }
+
+        .image-rotator img.active {
+            display: block;
+        }
+
+h2 {
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .image-rotator {
+        padding: 20px; /* Ajusta el padding para dispositivos medianos y grandes */
+        margin: 10px; /* Ajusta el margen para dispositivos medianos y grandes */
+    }
+}
+
+@media (min-width: 992px) {
+    .image-rotator {
+        padding: 30px; /* Ajusta el padding para dispositivos grandes */
+        margin: 15px; /* Ajusta el margen para dispositivos grandes */
+    }
+}
+
+#acerca-de {
+    font-family: Arial, sans-serif; /* Cambia el tipo de letra */
+}
+
+    #acerca-de h2 {
+        font-size: 24px; /* Cambia el tamaño de la letra del título */
+        text-align: center;
+    }
+
+    #acerca-de p {
+        font-size: 18px; /* Cambia el tamaño de la letra del párrafo */
+    }
+
+.window {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Ajusta el tamaño mínimo y máximo de las columnas */
+    gap: 10px; /* Espacio entre las imágenes */
+    padding: 5px; /* Ajusta el padding para espacio interior */
+    justify-content: center; /* Centra las imágenes horizontalmente */
+    align-items: center; /* Centra las imágenes verticalmente */
+}
+
+    .window img {
+        border: 6px solid #e59866;
+        width: 100%; /* Ancho del 100% para llenar el contenedor */
+        height: 100%; /* Alto del 100% para llenar el contenedor */
+        object-fit: cover; /* Ajusta el tamaño sin distorsionar la imagen */
+        max-width: 250px; /* Define el ancho máximo de las imágenes */
+        max-height: 250px; /* Define la altura máxima de las imágenes */
+    }

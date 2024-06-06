@@ -1,0 +1,143 @@
+﻿/* Estilos base */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333; /* Color de texto predeterminado */
+    background: linear-gradient(135deg, #f8c291, #e59866); /* Fondo degradado */
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezados */
+h1, h2, h3 {
+    font-weight: 700; /* Negrita para los encabezados */
+}
+
+h1 {
+    font-size: 2.5em; /* Tamaño grande para el título principal */
+    color: #000000;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 2em; /* Tamaño grande para los encabezados secundarios */
+    color: #e74c3c;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.5em; /* Tamaño grande para los encabezados de secciones */
+}
+
+/* Header */
+header {
+    background-color: #e59866;
+    padding: 20px 0;
+    text-align: center;
+    color: #ffffff;
+}
+
+    header h3 {
+        margin: 0;
+    }
+
+nav {
+    margin-top: 20px;
+}
+
+    nav a {
+        margin: 0 15px;
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: bold;
+        transition: color 0.3s ease;
+    }
+
+        nav a:hover {
+            color: #d35400;
+        }
+
+/* Contenedor principal */
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 15px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.products h2 {
+    color: #e59866;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilos del botón */
+button, asp:Button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+    button:hover, asp:Button:hover {
+        background-color: #0056b3;
+    }
+
+/* Estilos específicos para CRUD de Productos */
+.crud-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+}
+
+    .crud-container label {
+        display: block;
+        margin: 10px 0 5px;
+        font-weight: bold;
+    }
+
+    .crud-container input[type="text"],
+    .crud-container input[type="number"],
+    .crud-container asp:TextBox {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .crud-container asp:ListBox {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    .crud-container .form-section {
+        margin-bottom: 30px;
+    }
+
+/* Estilos de tarjeta para las secciones */
+.form-section {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}

@@ -1,0 +1,30 @@
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Entidad\obj\Debug\Capa_Entidad.pdb

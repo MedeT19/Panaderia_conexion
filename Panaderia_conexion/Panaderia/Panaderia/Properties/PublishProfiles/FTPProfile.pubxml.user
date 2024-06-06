@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzyPMB6SOWEKqFoFJTst16gAAAAACAAAAAAAQZgAAAAEAACAAAAAF8DLr0w/OyfavRcInKhmIQ6kHEqp8otvSD9Vxn3qsIwAAAAAOgAAAAAIAACAAAADTlx/s/xJSQSYbv+7TcyzMo8sgBEq73+cJoh+Fp3QoDSAAAAA/0+W1g4t468gtyXXNNlzk/ygnt5uuBwrSdiyMZr8r20AAAACMrqeCNWDgUk8bRHIt2jVGflUK+nD7B1Fj5nFA06OCfJ2OZUogxbLbNc0e4oLMeCB5d0p5OH5Zxv2p69VyXtQp</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.52.242.121/www.Panaderia7545.somee.com</_PublishTargetUrl>
+    <History>True|2024-04-17T17:15:23.8120417Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Panaderia.dll">
+      <publishTime>04/17/2024 11:15:03</publishTime>
+    </File>
+    <File Include="bin/Panaderia.pdb">
+      <publishTime>04/17/2024 11:15:03</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/17/2024 11:15:07</publishTime>
+    </File>
+    <File Include="product-image/bolillo.jpg">
+      <publishTime>04/17/2024 09:15:46</publishTime>
+    </File>
+    <File Include="product-image/ConchaVainilla.jpg">
+      <publishTime>04/17/2024 09:15:46</publishTime>
+    </File>
+    <File Include="product-image/Cuernito.jpg">
+      <publishTime>04/17/2024 09:15:46</publishTime>
+    </File>
+    <File Include="product-image/PanaderiaCharly.jpeg">
+      <publishTime>04/17/2024 09:26:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/17/2024 11:15:06</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>04/17/2024 11:07:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

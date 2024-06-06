@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panadería - Inicio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="cart.js" defer></script>
+    <link rel="stylesheet" href="imagenes.css">
+    <script src="imagenes.js" defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h3>Panadería "Charly"</h3>
+        <img src="product-image/PanaderiaCharly.jpeg" alt="Panadería Charly" class="auto-style4" style="border-radius:100px;"><br />
+
+        <div class="additional-content">
+            <p>¡Bienvenido a nuestra panadería! Estamos comprometidos a ofrecerte los mejores productos horneados.</p>
+            <p>Pasa y descubre nuestra amplia variedad de panes frescos y deliciosos.</p>
+        </div>
+
+        <nav>
+            <a href="Principal.html"><i class="fas fa-home"></i></a>
+            <a href="variedad-de-panes.html">Menú <i class="fas fa-bars"></i></a>
+            <a href="Sesion.html"><i class="fas fa-users"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100066945821755" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="#" onclick="openCartModal()"><i class="fas fa-shopping-cart"></i></a>
+        </nav>
+    </header>
+    <a href="Contacto.html" class="floating-contact-btn" id="floatingContactBtn"><i class="fas fa-envelope"></i></a>
+    <div class="container">
+        <h2>Contamos con trabajos para eventos</h2>
+        <div class="window">
+            <img src="Eventos/ev1.jpg" alt="Imagen 1" class="responsive-image">
+            <img src="Eventos/ev2.jpg" alt="Imagen 2" class="responsive-image">
+            <img src="Eventos/ev3.jpg" alt="Imagen 3" class="responsive-image">
+            <img src="Eventos/ev4.jpg" alt="Imagen 4" class="responsive-image">
+        </div>
+        <h2>Algunos mas de nuestros productos</h2>
+        <div class="image-rotator">
+            <img src="product-image/img1.jpg" class="active" alt="Imagen 1">
+            <img src="product-image/img2.jpg" alt="Imagen 2">
+            <img src="product-image/img3.jpg" alt="Imagen 3">
+            <img src="product-image/img4.jpg" alt="Imagen 4">
+            <img src="product-image/img5.jpg" alt="Imagen 5">
+            <img src="product-image/img6.jpg" alt="Imagen 6">
+            <img src="product-image/img7.jpg" alt="Imagen 7">
+            <img src="product-image/img8.jpg" alt="Imagen 8">
+            <img src="product-image/img9.jpg" alt="Imagen 9">
+            <!-- Agrega tantas imágenes como desees -->
+        </div>
+
+
+        <section id="acerca-de">
+            <h2>Acerca de Nosotros</h2>
+            <img src="product-image/Para principal.jpg" alt="Imagen de la panadería" class="responsive-image">
+            <p>Somos una panadería familiar con más de 6 años de experiencia en la elaboración de deliciosos panes y pasteles. Nuestro compromiso es ofrecer productos frescos y de la más alta calidad a nuestros clientes.</p>
+            <h2>¡Visítanos y descubre por qué somos la panadería preferida de la comunidad!</h2>
+        </section>
+    </div>
+    <button onclick="scrollToTop()" id="scrollTopBtn" title="Volver arriba" style="display: none;"><i class="fas fa-arrow-up"></i></button>
+    <section class="cart">
+        <div class="modal" id="cartModal">
+            <div class="modal-content">
+                <span class="close-btn" onclick="closeCartModal()">&times;</span>
+                <h2>Carrito de Compras</h2>
+                <div class="cart-items">
+                    <ul id="cart-items-list">
+                        <!-- Los ítems del carrito se añadirán aquí con JavaScript -->
+                    </ul>
+                </div>
+                <button class="cart-vaciar" onclick="clearCart()">Vaciar Carrito</button>
+                <button class="cart-button" onclick="sendOrder()">Confirmar Pedido</button>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

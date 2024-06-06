@@ -1,0 +1,45 @@
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.Up2Date
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.Up2Date
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.Up2Date
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.Up2Date
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.csproj.Up2Date
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Datos\obj\Debug\Capa_Datos.pdb

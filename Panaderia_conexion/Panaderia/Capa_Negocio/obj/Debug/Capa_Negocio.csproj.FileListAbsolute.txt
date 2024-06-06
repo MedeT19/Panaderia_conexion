@@ -1,0 +1,55 @@
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

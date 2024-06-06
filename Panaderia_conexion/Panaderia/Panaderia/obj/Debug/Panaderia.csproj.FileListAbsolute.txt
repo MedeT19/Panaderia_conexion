@@ -1,0 +1,112 @@
+C:\Users\lt321\Documents\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\Documents\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\Documents\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\Documents\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\Documents\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Documents\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\Documents\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+E:\Panaderia\Panaderia\bin\Panaderia.dll.config
+E:\Panaderia\Panaderia\bin\Panaderia.dll
+E:\Panaderia\Panaderia\bin\Panaderia.pdb
+E:\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+E:\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+E:\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+E:\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\Downloads\Panaderia\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\Downloads\Panaderia\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\Downloads\Panaderia\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia (2)\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\Downloads\Panaderia (2)\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\Downloads\Panaderia (2)\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia (2)\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia (2)\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia (2)\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\Downloads\Panaderia (2)\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\lt321\Downloads\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\Downloads\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\Downloads\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\Downloads\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\Downloads\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\lt321\Downloads\Esta funcionando todo\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\Downloads\Esta funcionando todo\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\Downloads\Esta funcionando todo\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\Downloads\Esta funcionando todo\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Esta funcionando todo\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Esta funcionando todo\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\Downloads\Esta funcionando todo\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\lt321\OneDrive\Documents\Panaderia Charly\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\OneDrive\Documents\Panaderia Charly\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\OneDrive\Documents\Panaderia Charly\Tiene Buscador\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\OneDrive\Documents\Panaderia Charly\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\OneDrive\Documents\Panaderia Charly\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\OneDrive\Documents\Panaderia Charly\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\OneDrive\Documents\Panaderia Charly\Tiene Buscador\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Datos.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.Up2Date
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Datos.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.Up2Date
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\Downloads\Chambea al 100\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Datos.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Entidad.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Negocio.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Datos.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Entidad.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Negocio.pdb
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.Up2Date
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\xXSASHAXx\Pictures\python peralta\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.dll.config
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Panaderia.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Datos.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Entidad.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Negocio.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Datos.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Entidad.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\bin\Capa_Negocio.pdb
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.AssemblyReference.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.csproj.Up2Date
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.dll
+C:\Users\lt321\Downloads\Panaderia_conexion\Panaderia_conexion\Panaderia\Panaderia\obj\Debug\Panaderia.pdb

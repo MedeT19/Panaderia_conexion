@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="cart.js" defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variedad de Panes - Panadería Charly</title>
+</head>
+<body>
+
+    <header>
+        <h3>Panadería "Charly"</h3>
+        <img src="product-image/PanaderiaCharly.jpeg" alt="Panaderia" class="auto-style4" style="border-radius:100px;"><br />
+        <nav>
+            <a href="Principal.html"><i class="fas fa-home"></i></a>
+            <a href="variedad-de-panes.html">Menú <i class="fas fa-bars"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100066945821755" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="#" onclick="openCartModal()"><i class="fas fa-shopping-cart"></i></a>
+        </nav>
+    </header>
+    <a href="Contacto.html" class="floating-contact-btn" id="floatingContactBtn"><i class="fas fa-envelope"></i></a>
+    <div id="notificationModal" class="modale">
+        <div class="modale-content">
+            <span class="closers-btn" onclick="closeNotificationModal()">&times;</span>
+            <p id="notificationMessage"></p>
+        </div>
+    </div>
+
+    <div id="searchBar">
+        <input type="text" id="searchInput" placeholder="Buscar productos...">
+        <button onclick="searchProducts()">Buscar</button>
+    </div>
+
+    <script>
+        function handleKeyPress(event) {
+            if (event.keyCode === 13) {
+                searchProduct();
+            }
+        }
+
+        function searchProduct() {
+            console.log("Buscando productos...");
+        }
+
+        function createProductElement(productName, imageSrc, description) {
+            return `
+                        <div class="im" style="border: 5px solid #e59866; width: 350px; border-radius: 20px; background-color: #f9f3e6 ">
+                            <h2 class="card-title" style="color:black">${productName}</h2>
+                            <img src="${imageSrc}" alt="${productName}" class="fadeIn" style="border-radius:50px; width: 184px; height: 150px;">
+                            <div class="quantity-control">
+                                <p style="margin: 5px">${description}</p>
+                                <div style="margin-top:10px">
+                                    <button onclick="decreaseQuantity('${productName}')">-</button>
+                                    <span id="quantity-${productName}">0</span>
+                                    <button onclick="increaseQuantity('${productName}')">+</button>
+                                    <button onclick="addToCart('${productName}', parseInt(document.getElementById('quantity-${productName}').textContent)); document.getElementById('quantity-${productName}').textContent = 0;">Añadir</button>
+                                </div>
+                            </div>
+                            <br />
+                        </div>`;
+        }
+
+        $(document).ready(function () {
+            $.ajax({
+                type: "POST",
+                url: "WebForm1.aspx/ObtenerProductos",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (response) {
+                    const productos = JSON.parse(response.d);
+                    const productContainer = $(".product-images");
+                    productContainer.empty();
+
+                    productos.forEach(producto => {
+                        const productName = producto.nombre;
+                        const imageSrc = "product-image/" + producto.nombre.replace(/ /g, "") + ".jpg"; // Asumiendo que la imagen sigue esta convención
+                        const description = "Cantidad disponible: " + producto.cantidad; // Añade una descripción básica
+                        productContainer.append(createProductElement(productName, imageSrc, description));
+                    });
+                },
+                error: function (error) {
+                    console.log("Error al cargar los productos:", error);
+                }
+            });
+        });
+    </script>
+
+    <div class="container">
+        <section class="products">
+            <br />
+            <h2>Variedad de Panes</h2>
+            <div class="table-container">
+                <div class="product-images" style="display: flex; flex-wrap: wrap;">
+                    <!-- Productos se cargarán aquí dinámicamente -->
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <section class="cart">
+        <div class="modal" id="cartModal">
+            <div class="modal-content">
+                <span class="close-btn" onclick="closeCartModal()">&times;</span>
+                <h2>Carrito de Compras</h2>
+                <div class="cart-items">
+                    <ul id="cart-items-list">
+                        <!-- Los ítems del carrito se añadirán aquí con JavaScript -->
+                    </ul>
+                </div>
+                <button class="cart-vaciar" onclick="clearCart()">Vaciar Carrito</button>
+                <button class="cart-button" onclick="sendOrder()">Confirmar Pedido</button>
+            </div>
+        </div>
+    </section>
+
+    <div id="searchModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeSearchModal()">&times;</span>
+            <input type="text" id="searchInput" placeholder="Buscar pan...">
+            <button onclick="searchProduct()">Buscar</button>
+            <div id="searchResults"></div>
+        </div>
+    </div>
+    <button onclick="scrollToTop()" id="scrollTopBtn" title="Volver arriba"><i class="fas fa-arrow-up"></i></button>
+
+    <footer>
+        <!-- Contenido del pie de página -->
+    </footer>
+</body>
+</html>
